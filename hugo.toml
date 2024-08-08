@@ -44,10 +44,12 @@ googleAnalytics = ""
   #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+[[params.navlinks]]
+name = "Home"
+url = "/"
+home = true
+
+# Remove the other navlinks like "About" and "Get in touch"
 
   [[params.navlinks]]
   name = "About"
