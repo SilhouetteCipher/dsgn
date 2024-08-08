@@ -1,4 +1,4 @@
-baseurl = "https://localhost:1313/"
+baseurl = "https://www.dsgn.gallery/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
