@@ -2,51 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost:1313/name-of-the-work-2trillion/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url><url>
-    <loc>https://localhost:1313/name-of-the-work-3/</loc>
+    <loc>https://localhost:1313/image-no-text-template-copy-2/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/item-without-image/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/name-of-the-work-5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-4/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/name-of-the-work-6/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-5/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/name-of-the-work-7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-6/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/name-of-the-work-8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-7/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/item-with-image/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-8/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/item-with-image/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy-9/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/item-with-image/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template-copy/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://localhost:1313/image-no-text-template/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
     <loc>https://localhost:1313/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
     <loc>https://localhost:1313/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://localhost:1313/post/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url><url>
     <loc>https://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>https://localhost:1313/post/my-post/</loc>
   </url><url>
     <loc>https://localhost:1313/tags/</loc>
   </url>
