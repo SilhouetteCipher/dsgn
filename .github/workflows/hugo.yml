@@ -47,22 +47,23 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
+      - name: Copy Static Files
+        run: |
+          mkdir -p public/static
+          cp -r content/static/* public/static/
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-          
-          # Copy the static/js/ directory to the public/js/ directory
-          mkdir -p public/js
-          cp -r static/js public/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-
+          
   deploy:
     environment:
       name: github-pages
