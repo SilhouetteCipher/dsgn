@@ -11,5 +11,5 @@ weight = 2
 
 <!--more-->
 
-<script src="/js/script.js"></script>
+<script src="/js/test1.js"></script>
 
