@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3UBCVIH3LJNNXCURTDUA4RCG6Y.jpg"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Template"
