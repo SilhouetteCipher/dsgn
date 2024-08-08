@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Name of the work 3</title>
-      <link>http://localhost:1313/work3/</link>
+      <title>Template</title>
+      <link>http://localhost:1313/image-no-text-template/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>http://localhost:1313/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/image-no-text-template/</guid>
+      <description>&lt;h2 id=&#34;text-that-will-show-in-post-and-hover-hover&#34;&gt;Text that will show in post and hover hover&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Item without image</title>
