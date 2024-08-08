@@ -92,5 +92,12 @@
       <guid>http://localhost:1313/image-no-text-template/</guid>
       <description>&lt;h2 id=&#34;text-that-will-show-in-post-and-hover-hover&#34;&gt;Text that will show in post and hover hover&lt;/h2&gt;</description>
     </item>
+    <item>
+      <title>Template</title>
+      <link>http://localhost:1313/portfolio/image-no-text-template-copy-4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/image-no-text-template-copy-4/</guid>
+      <description>&lt;h2 id=&#34;text-that-will-show-in-post-and-hover-hover&#34;&gt;Text that will show in post and hover hover&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>
