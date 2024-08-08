@@ -69,5 +69,3 @@ googleAnalytics = ""
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
 
-[permalinks]
-  post = "/:slug/"

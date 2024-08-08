@@ -2,53 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/image-no-text-template-copy-10/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-10/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-11/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-11/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-2/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-2/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-3/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-4/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-4/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-5/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-5/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-6/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-6/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-7/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-7/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-8/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-8/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy-9/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy-9/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template-copy/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template-copy/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/image-no-text-template/</loc>
+    <loc>https://www.dsgn.gallery/image-no-text-template/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://www.dsgn.gallery/portfolio/image-no-text-template-copy-4/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url><url>
+    <loc>https://www.dsgn.gallery/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.dsgn.gallery/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.dsgn.gallery/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.dsgn.gallery/portfolio/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.dsgn.gallery/categories/</loc>
+  </url><url>
+    <loc>https://www.dsgn.gallery/tags/</loc>
   </url>
 </urlset>
