@@ -1,4 +1,4 @@
-baseurl = "https://www.dsgn.gallery/"
+baseurl = "http://www.dsgn.gallery/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
