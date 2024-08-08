@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Creative portfolio</title>
+    <link>https://www.dsgn.gallery/</link>
+    <description>Recent content in Home on Creative portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://www.dsgn.gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Template</title>
+      <link>https://www.dsgn.gallery/posts/tempate-image-only/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://www.dsgn.gallery/posts/tempate-image-only/</guid>
+      <description>&lt;h2 id=&#34;text-that-will-show-in-post-and-hover-hover&#34;&gt;Text that will show in post and hover hover&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Templatse</title>
+      <link>https://www.dsgn.gallery/posts/tempate-image-only-copy/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://www.dsgn.gallery/posts/tempate-image-only-copy/</guid>
+      <description>&lt;h2 id=&#34;text-that-will-show-in-post-and-hover-hover&#34;&gt;Text that will show in post and hover hover&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 6</title>
+      <link>https://www.dsgn.gallery/posts/template-text-only/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://www.dsgn.gallery/posts/template-text-only/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
