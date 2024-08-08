@@ -61,3 +61,8 @@ whatsapp      = "wa.me service link"
 [[staticFiles]]
   source = "static/js"
   destination = "js"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
