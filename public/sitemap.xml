@@ -2,50 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/work2/</loc>
+    <loc>https://localhost:1313/name-of-the-work-2trillion/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work3/</loc>
+    <loc>https://localhost:1313/name-of-the-work-3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work4/</loc>
+    <loc>https://localhost:1313/item-without-image/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work5/</loc>
+    <loc>https://localhost:1313/name-of-the-work-5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work6/</loc>
+    <loc>https://localhost:1313/name-of-the-work-6/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work7/</loc>
+    <loc>https://localhost:1313/name-of-the-work-7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work8/</loc>
+    <loc>https://localhost:1313/name-of-the-work-8/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work9/</loc>
+    <loc>https://localhost:1313/item-with-image/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work10/</loc>
+    <loc>https://localhost:1313/item-with-image/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work11/</loc>
+    <loc>https://localhost:1313/item-with-image/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://localhost:1313/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://localhost:1313/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://localhost:1313/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://localhost:1313/post/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://localhost:1313/post/my-post/</loc>
+  </url><url>
+    <loc>https://localhost:1313/tags/</loc>
   </url>
 </urlset>
