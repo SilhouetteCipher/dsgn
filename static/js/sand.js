@@ -11,7 +11,7 @@ let nextDirectionChange;
 
 function setup() {
   // Create the canvas
-  let canvas = createCanvas(500, 900);
+  let canvas = createCanvas(500, 200);
 
   // Attach the canvas to the HTML element with the ID 'sketch-container'
   canvas.parent("sketch-container");
