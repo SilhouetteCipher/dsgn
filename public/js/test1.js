@@ -3,8 +3,13 @@ let y = 200;
 let xSpeed = 2;
 
 function setup() {
-  let canvas = createCanvas(400, 400);
-  canvas.parent("sketch-container");
+  let wrapper = document.getElementById("sketch-wrapper-1"); // Match the ID from the shortcode
+  let canvas = createCanvas(canvasWidth, canvasHeight);
+  canvas.parent(wrapper); // Attach the canvas to the specific wrapper
+}
+
+function windowResized() {
+  resizeCanvas(canvasWidth, canvasHeight); // Resizes based on the defined width and height
 }
 
 function draw() {

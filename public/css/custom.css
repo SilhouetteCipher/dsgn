@@ -1,1 +1,19 @@
-/* your styles go here */
+.box-masonry {
+  background: #fff;
+  margin-bottom: 30px;
+  position: relative;
+  box-shadow: 0 0 5px #ccc;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 10px;
+}
+
+#sketch-container {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  position: relative !important;
+}

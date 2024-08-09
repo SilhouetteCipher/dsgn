@@ -10,11 +10,9 @@ let emissionDirection = 1; // 1 for right, -1 for left
 let nextDirectionChange;
 
 function setup() {
-  // Create the canvas
-  let canvas = createCanvas(600, 800);
-
-  // Attach the canvas to the HTML element with the ID 'sketch-container'
-  canvas.parent("sketch-container");
+  let wrapper = document.getElementById("sketch-wrapper-1"); // Use the ID from the shortcode
+  let canvas = createCanvas(canvasWidth, canvasHeight); // Use global canvasWidth and canvasHeight
+  canvas.parent(wrapper); // Attach the canvas to the specific wrapper
 
   // Initialize grid, colors, and other variables
   cols = width / cellSize;
@@ -32,6 +30,14 @@ function setup() {
   emissionY = height - cellSize;
   noStroke();
   setNextDirectionChange();
+}
+
+function windowResized() {
+  resizeCanvas(canvasWidth, canvasHeight); // Resizes based on the defined width and height
+  // Recalculate cols and rows after resizing
+  cols = width / cellSize;
+  rows = height / cellSize;
+  grid = create2DArray(cols, rows);
 }
 
 function draw() {
