@@ -1,5 +1,5 @@
 baseurl = "https://www.dsgn.gallery/"
-title = "Creative portfolio"
+title = "dsgn"
 languageCode = "en-us"
 
 # Enable comments by entering your Disqus shortname
@@ -15,10 +15,10 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Hi, i'm David and my brain likes to create stuff. Stuff needs a home. And a home is here.",
+    "Based in Durham England this site contains all sorts of designs ive made for myself as well as my store at www.overview.design."
   ]
-  email = "you@yoursite.com"
+  email = "davvyk@gmail.com"
 
 [[params.navlinks]]
 name = "Home"
