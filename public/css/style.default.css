@@ -317,12 +317,17 @@ SIDEBAR + RIGHT COLUMN
 =====================
 */
 #sidebar {
-  padding-top: 40px;
+  position: relative;
+  z-index: 1; /* Keep sidebar content above the p5.js canvas */
+  height: 100%; /* Ensure the sidebar's height is based on the content */
 }
+
 .sidebar-content {
-  z-index: 0;
-  padding: 0 1.7em 0 0em;
+  position: relative;
+  height: 100vh; /* Ensure sidebar-content takes the full height of the sidebar */
+  z-index: 1;
 }
+
 @media screen and (min-width: 992px) {
   .sidebar-content {
     padding-left: 0px;
